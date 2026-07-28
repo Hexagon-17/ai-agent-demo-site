@@ -1,0 +1,13 @@
+node_modules/
+dist/
+standalone/
+.edgeone/
+.runlogs/
+*.tsbuildinfo
+*.log
+
+# Tencent Cloud EdgeOne
+.env
+.edgeone/*
+.tef_dist/*
+  
